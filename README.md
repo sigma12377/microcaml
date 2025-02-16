@@ -1,6 +1,6 @@
 # Interpreter for Microcaml
 
-see https://github.com/umd-cmsc330/cmsc330spring22/tree/main/project4a for the grammar of the language grammar
+see https://github.com/umd-cmsc330/cmsc330spring22/tree/main/project4a for the language grammar
 
 build: `dune build`
 usage:
